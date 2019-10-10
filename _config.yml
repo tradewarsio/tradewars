@@ -2,5 +2,3 @@ theme: jekyll-theme-cayman
 title: TradeWars.io
 description: Everything has a price.
 google_analytics: UA-149459094-1
-plugins:
-- jekyll-menus
