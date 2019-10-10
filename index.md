@@ -1,1 +1,1 @@
-TradeWars.io is a decentralized price oracle on top of EOS mainnet.
+TradeWars.io is coming soon.
